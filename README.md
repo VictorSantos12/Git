@@ -96,4 +96,61 @@ Para trabalhar em equipe é necessário seguir os passos adiante:
 		
 </ol>
 
-E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela periodicamente.
+E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela periodicamente.<br><br>
+
+
+![git_original_wordmark_logo_icon_146510](https://cmder.net/img/logo.svg) 
+
+		
+<h2>Comandos Básicos</h2>
+
+<h6><b>Criar um novo diretório</b></h6>	
+	        
+> md (nome)
+
+<h6><b>Criar multiplos diretórios</b></h6>	
+	        
+> md (nome1)/(nome2)/(nome3)/
+
+<h6><b>Renomear Diretório</b></h6>	
+	        
+> move (nome atual) (novo nome)
+
+<h6><b>Entrar em um diterório</b></h6>	
+	        
+> cd\ (nome)
+
+<h6><b>Sair de um diterório</b></h6>	
+	        
+> cd .. (nome)
+
+<h2>Arquivos</h2>
+
+<h6><b>Cria um arquivo de tipo específico</b></h6>	
+	        
+> touch (nome) + terminação 
+
+```ex: touch index.html```
+```ex: touch style.css```
+```ex: touch index.js```
+
+<h2>Comandos de Delete</h2>
+
+<h6><b>Deletar Pastas de um diterório</b></h6>	
+	        
+> rm (nome)
+
+<h6><b>Deletar um diterório vazio</b></h6>	
+	        
+> rmdir (nome)
+
+<h6><b>Deletar um arquivo especifico</b></h6>	
+	        
+> del (nome)
+
+<h6><b>Deletar um diterório e seu conteúdo</b></h6>	
+	        
+> del (nome)/s
+
+
+

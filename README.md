@@ -144,7 +144,7 @@ E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela
 	        
 > rmdir (nome)
 
-<h6><b>Deletar um arquivo especifico</b></h6>	
+<h6><b>Deletar um arquivo específico</b></h6>	
 	        
 > del (nome)
 

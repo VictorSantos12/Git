@@ -52,6 +52,10 @@ de identifição</b>
 		
 <h1>BRANCHES</h1>
 
+<b>Listar Branches Existentes</b>
+
+> git branch
+
 <b>Criar nova branch</b>
 
 > git branch (nome da nova branch)
@@ -65,8 +69,7 @@ foram commitados a mesma</b>
 	
 > git checkout (nome da branch)
 		
-<b>Além de criar uma branch correspondente a atual no 
-repositório remoto, envia os arquivos nela presentes para o repositório remoto</b>	
+<b>Além de criar uma branch correspondente a atual no repositório remoto, envia os arquivos nela</b>	
 
 > git push --set-upstream origin (nome)
 	
@@ -77,7 +80,7 @@ repositório remoto, envia os arquivos nela presentes para o repositório remoto
 <b>Deletar uma branch do origin(Github) do projeto</b>	
 	        
 > git push origin --delete (nome)
-	
+
 		
 <h1>TRABALHANDO EM EQUIPE</h1>
 		

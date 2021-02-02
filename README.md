@@ -2,7 +2,7 @@
 		
 <h1>Comandos Básicos</h1>
 	     	 
-Iniciar Repositório Local
+<b>Iniciar Repositório Local</b>
 
 > git init
 
@@ -41,11 +41,11 @@ Enviar os arquivos do git directory para o repositório remoto
 	
 > git push 
 	
-COMMITS
+<h1>COMMITS</h1>
 
 
 		
-BRANCHES
+<h1>BRANCHES</h1>
 
 Criar uma nova branch no repositório local, adicionando assim os asrquivos que já
 foram commitados a mesma

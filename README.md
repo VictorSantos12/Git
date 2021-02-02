@@ -1,4 +1,5 @@
-#VERSIONAMENTO DE PROJETOS COM GIT
+
+<img src=”https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png”>
 		
 <h1>Comandos Básicos</h1>
 	     	 
@@ -43,14 +44,22 @@ de identifição</b>
 	
 <h1>COMMITS</h1>
 
-```oi```
+<b>Alterar mensagem do ultimo commit realizado</b>
+
+> git --amend -m "nova menagem"
+		
+		
 		
 <h1>BRANCHES</h1>
+
+<b>Criar nova branch</b>
+
+> git branch (nome da nova branch)
 
 <b>Criar uma nova branch no repositório local, adicionando assim os asrquivos que já
 foram commitados a mesma</b>
 
-```> git checkout -b (nome da nova branch)```
+> git checkout -b (nome da nova branch)
 	
 <b>Navegar entre uma branch e outra</b>        	
 	
@@ -70,7 +79,6 @@ repositório remoto, envia os arquivos nela presentes para o repositório remoto
 > git push origin --delete (nome)
 	
 		
-		
 <h1>TRABALHANDO EM EQUIPE</h1>
 		
 Para trabalhar em equipe é necessário seguir os passos adiante:
@@ -82,7 +90,7 @@ Para trabalhar em equipe é necessário seguir os passos adiante:
 
 <li>Crie uma nova branch no diretório de trabalho (Com seu nome ou identificador);</li>
 
-<li>Use o comando git push --set-upstream origin (nome) para criar um originda sua branch no GitHub;</li>
+<li>Use o comando git push --set-upstream origin (nome) para criar um origin da sua branch no GitHub;</li>
 		
 <li>E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela periodicamente.</li>
 	

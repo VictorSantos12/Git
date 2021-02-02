@@ -40,6 +40,7 @@ de identifição</b>
 <b>Enviar os arquivos do git directory para o repositório remoto</b>	
 	
 > git push 
+
 	
 <h1>COMMITS</h1>
 
@@ -91,7 +92,6 @@ Para trabalhar em equipe é necessário seguir os passos adiante:
 
 <li>Use o comando git push --set-upstream origin (nome) para criar um origin da sua branch no GitHub;</li>
 		
-<li>E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela periodicamente.</li>
-	
-</ol>	
-	
+</ol>
+
+E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela periodicamente.

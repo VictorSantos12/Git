@@ -112,6 +112,10 @@ E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela
 	        
 > md (nome1)\(nome2)\(nome3)
 
+<h6><b>Listar todos diretórios</b></h6>	
+	        
+> dir
+
 <h6><b>Renomear Diretório</b></h6>	
 	        
 > move (nome atual) (novo nome)

@@ -43,14 +43,14 @@ de identifição</b>
 	
 <h1>COMMITS</h1>
 
-
+```oi```
 		
 <h1>BRANCHES</h1>
 
 <b>Criar uma nova branch no repositório local, adicionando assim os asrquivos que já
 foram commitados a mesma</b>
 
-> git checkout -b (nome da nova branch)
+```> git checkout -b (nome da nova branch)```
 	
 <b>Navegar entre uma branch e outra</b>        	
 	
@@ -72,19 +72,19 @@ repositório remoto, envia os arquivos nela presentes para o repositório remoto
 		
 		
 <h1>TRABALHANDO EM EQUIPE</h1>
-	
-Para trabalhar em equipe é necessário seguir os passos adiante:
-	
-Crie um repositório local para ser seu diretório de trabalho;
-
-Clone o projeto;		
-
-Crie uma nova branch no diretório de trabalho (Com seu nome ou identificador);
-
-Use o comando git push --set-upstream origin (nome) para criar um origin
-da sua branch no GitHub;
 		
-E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela	periodicamente.
+Para trabalhar em equipe é necessário seguir os passos adiante:
+
+<ol>		
+<li>Crie um repositório local para ser seu diretório de trabalho;</li>
+
+<li>Clone o projeto;</li>		
+
+<li>Crie uma nova branch no diretório de trabalho (Com seu nome ou identificador);</li>
+
+<li>Use o comando git push --set-upstream origin (nome) para criar um originda sua branch no GitHub;</li>
+		
+<li>E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela periodicamente.</li>
 	
-	
+</ol>	
 	

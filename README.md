@@ -6,38 +6,38 @@
 
 > git init
 
-Deletar Repositório Local
+<b>Deletar Repositório Local</b>
 
 > rm -rf .git
       	   	         
-Adicionar Origem/Destino do Host
+<b>Adicionar Origem/Destino do Host</b>
 
 > git add remote origin URL 
 	        
-Fazer uma cópia do repositório Remoto no repositório local.
+<b>Fazer uma cópia do repositório Remoto no repositório local.
 Ação muito importante no inicio de um novo projeto, ou na criação
-de uma nova branch	  
+de uma nova branch</b>	  
 		
 > git clone URL
 	
-Verificar em que fase de versionamento está o diretório local
+<b>Verificar em que fase de versionamento está o diretório local</b>
 
 > git status 
 	      
-Adicionar os novos arquivos a staging area 	        
+<b>Adicionar os novos arquivos a staging area</b> 	        
 	
 > git add (nome)/ git add .
 	
-Criar um commit dos novos dados e adicionar a eles uma mensagem
-de identifição		
+<b>Criar um commit dos novos dados e adicionar a eles uma mensagem
+de identifição</b>		
 	
 > git commit -m  "mensagem"
          	
-Mostrar a linha do tempo dos commits já feitos
+<b>Mostrar a linha do tempo dos commits já feitos</b>
 		
 > git log 
 	
-Enviar os arquivos do git directory para o repositório remoto	
+<b>Enviar os arquivos do git directory para o repositório remoto</b>	
 	
 > git push 
 	
@@ -47,31 +47,31 @@ Enviar os arquivos do git directory para o repositório remoto
 		
 <h1>BRANCHES</h1>
 
-Criar uma nova branch no repositório local, adicionando assim os asrquivos que já
-foram commitados a mesma
+<b>Criar uma nova branch no repositório local, adicionando assim os asrquivos que já
+foram commitados a mesma</b>
 
 > git checkout -b (nome da nova branch)
 	
-Navegar entre uma branch e outra;        	
+<b>Navegar entre uma branch e outra</b>        	
 	
 > git checkout (nome da branch)
 		
-Além de criar uma branch correspondente a atual no 
-repositório remoto, envia os arquivos nela presentes para o repositório remoto;	
+<b>Além de criar uma branch correspondente a atual no 
+repositório remoto, envia os arquivos nela presentes para o repositório remoto</b>	
 
 > git push --set-upstream origin (nome)
 	
-Deletar uma branch do diretório local;		
+<b>Deletar uma branch do diretório local</b>		
 	
 > git branch -d (nome)
 	
-Deletar uma branch do origin(Github) do projeto;	
+<b>Deletar uma branch do origin(Github) do projeto</b>	
 	        
 > git push origin --delete (nome)
 	
 		
 		
-TRABALHANDO EM EQUIPE
+<h1>TRABALHANDO EM EQUIPE</h1>
 	
 Para trabalhar em equipe é necessário seguir os passos adiante:
 	

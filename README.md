@@ -1,6 +1,6 @@
 ![git_original_wordmark_logo_icon_146510](https://icon-icons.com/icons2/2406/PNG/128/github_git_icon_145985.png)
 		
-<h3>Comandos Básicos</h3>
+<h2>Comandos Básicos</h2>
 	     	 
 <h6><b>Iniciar Repositório Local</b></h6>
 
@@ -40,7 +40,7 @@ de identifição</b></h6>
 > git push 
 
 	
-<h3>Commits</h3>
+<h2>Commits</h2>
 
 <h6><b>Alterar mensagem do ultimo commit realizado</b></h6>
 
@@ -48,7 +48,7 @@ de identifição</b></h6>
 		
 		
 		
-<h3>Branches</h3>
+<h2>Branches</h2>
 
 <h6><b>Listar Branches Existentes</b></h6>
 
@@ -80,7 +80,7 @@ foram commitados a mesma</b></h6>
 > git push origin --delete (nome)
 
 		
-<h3>Trabalho em Equipe</h3>
+<h2>Trabalho em Equipe</h2>
 		
 Para trabalhar em equipe é necessário seguir os passos adiante:
 

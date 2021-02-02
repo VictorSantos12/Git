@@ -1,5 +1,5 @@
 
-![git_original_wordmark_logo_icon_146510](https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png)
+                        ![git_original_wordmark_logo_icon_146510](https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png)
 		
 <h1>Comandos Básicos</h1>
 	     	 

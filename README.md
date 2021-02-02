@@ -14,9 +14,7 @@
 
 > git add remote origin URL 
 	        
-<h6><b>Fazer uma cópia do repositório Remoto no repositório local.
-Ação muito importante no inicio de um novo projeto, ou na criação
-de uma nova branch</b>	</h6>  
+<h6><b>Fazer uma cópia do repositório Remoto no repositório local.</b></h6>  
 		
 > git clone URL
 	

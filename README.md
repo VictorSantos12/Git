@@ -1,4 +1,4 @@
-![git_original_wordmark_logo_icon_146510](https://icon-icons.com/icons2/2406/PNG/128/github_git_icon_145985.png)
+![git_original_wordmark_logo_icon_146510](https://icon-icons.com/icons2/2699/PNG/128/git_scm_logo_icon_170096.png) 
 		
 <h2>Comandos Básicos</h2>
 	     	 

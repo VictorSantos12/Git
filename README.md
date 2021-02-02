@@ -24,8 +24,7 @@ Verificar em que fase de versionamento está o diretório local
 
 git status 
 	      
-Adicionar os novos arquivos a staging area, porém, é possível enviar
-tudo o que foi alterado de uma única vez com o comando git add .	        
+Adicionar os novos arquivos a staging area 	        
 	
 git add (nome)/ git add .
 	
@@ -59,11 +58,11 @@ repositório remoto, envia os arquivos nela presentes para o repositório remoto
 
 git push --set-upstream origin (nome)
 	
-Deletar uma brach do diretório local;		
+Deletar uma branch do diretório local;		
 	
 git branch -d (nome)
 	
-Deletar uma brach do origin(Github) do projeto;	
+Deletar uma branch do origin(Github) do projeto;	
 	        
 git push origin --delete (nome)
 	

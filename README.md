@@ -1,6 +1,6 @@
 #VERSIONAMENTO DE PROJETOS COM GIT
 		
-<h1>Comandos Básicos<h1>
+<h1>Comandos Básicos
 	     	 
 Iniciar Repositório Local
 

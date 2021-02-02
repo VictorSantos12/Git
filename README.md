@@ -1,10 +1,10 @@
 #VERSIONAMENTO DE PROJETOS COM GIT
 		
-<h1>Comandos Básicos
+#Comandos Básicos
 	     	 
 Iniciar Repositório Local
 
-git init
+> git init
 
 Deletar Repositório Local
 

@@ -2,7 +2,7 @@
 		
 <h1>Comandos Básicos</h1>
 	     	 
-<b>Iniciar Repositório Local</b>
+<h6><b>Iniciar Repositório Local</b></h6>
 
 > git init
 

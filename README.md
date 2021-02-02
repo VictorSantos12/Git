@@ -1,6 +1,6 @@
 #VERSIONAMENTO DE PROJETOS COM GIT
 		
-Comandos Básicos 
+<h1>Comandos Básicos<h1>
 	     	 
 Iniciar Repositório Local
 
@@ -41,6 +41,9 @@ Enviar os arquivos do git directory para o repositório remoto
 	
 git push 
 	
+COMMITS
+
+
 		
 BRANCHES
 

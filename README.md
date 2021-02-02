@@ -74,8 +74,11 @@ TRABALHANDO EM EQUIPE
 Para trabalhar em equipe é necessário seguir os passos adiante:
 	
 Crie um repositório local para ser seu diretório de trabalho;
+
 Clone o projeto;		
+
 Crie uma nova branch no diretório de trabalho (Com seu nome ou identificador);
+
 Use o comando git push --set-upstream origin (nome) para criar um origin
 da sua branch no GitHub;
 		

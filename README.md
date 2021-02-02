@@ -110,7 +110,7 @@ E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela
 
 <h6><b>Criar multiplos diretórios</b></h6>	
 	        
-> md (nome1)\(nome2)\(nome3)
+> md nome1\nome2\nome3
 
 <h6><b>Renomear Diretório</b></h6>	
 	        

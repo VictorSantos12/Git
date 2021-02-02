@@ -118,7 +118,7 @@ E pronto, você pode trabalhar na sua branch e enviar as atualizações para ela
 
 <h6><b>Entrar em um diterório</b></h6>	
 	        
-> cd/ (nome)
+> cd (nome)
 
 <h6><b>Sair de um diterório</b></h6>	
 	        

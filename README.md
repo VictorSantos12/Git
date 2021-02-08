@@ -81,12 +81,59 @@ foram commitados a mesma</b></h6>
 > git push origin --delete (nome)
 
 		
-<h2>Trabalho em Equipe</h2>
-		
-Para trabalhar em equipe é necessário seguir os passos adiante:
+<h2>Trabalho em Equipe </h2>
+
+Ao ingressar em projeto de grade porte é necessário dobrar o cuidado quanto a criação, manutenção<br>
+e exclusão de branches. Para evitar a sobreposição dde arquivos e a perda de projetos, é preciso<br>
+seguir algumas boas práticas quanto a ordem de comandos e a lógica por tras de todo o processo de<br>
+versionamento.
+
+<h4>Ordem de comandos e Detalhes para se ater</h4>
+
+<ol>
+<li>Crie um repositório remoto</li>
+<li>Crie uma pasta isolada, correspondente ao diretório local, onde poderá iniciar com<br>
+    o comando git init.<br>
+	
+  Obs: Projetos que conteam uma cli própria serão instalados aqui,<br>
+  as demais branchs terão como base o projeto iniciado na master, <br>
+  e a navegação entre branches só poderá ser feita ao fim do primeiro<br>
+  push...
+  
+  Outro detalhe a se ater se refere a instalação de dependências; Projetos<br>
+  que contém uma cli própria criam uma nova pasta correspondete ao projeto,<br>
+  tendo ela suas próprias configurações. É nessa nova pasta que serão instaladas<br>
+  novas dependências e onde serão dados comandos referentes a cli do projeto
+  </li>
+	
+<h4>Criando Conexão</h4>
+
+<li>Conecte o diretório local ao repositório remoto com o git remote add origon + url;</li>
+
+<li>Caso o trabalho não demande a criação de uma nova branch, siga com os comandos<br>
+    básicos:<br>
+    
+   git status, git add, git commit -m e git push. As atualizações serão direcionadas para<br>
+   a branch master;</li>
+    
+<h4>Criando uma Nova Branch</h4>
+
+<li>Para criar uma nova branch, use o comando git banch + nome ou git checkout -b + nome.<br>
+    Essa branch irá conter uma cópia de tudo o que já sofreu um commit na branch master;</li>
+    
+<li>Para navegar entre uma branch e outra, use o comando git checkout + o nome da branch;</li>
+
+<li>Para criar um correspondente a nova branch no repositório remoto use o comando:<br>
+    git push --set-upstream origin + o nome da branch a ser criada;</li>
+</ol>
+
+Casos em que sua contribuição corresponde a uma parte isolada do projeto, onde um de seus superiores<br>
+será responsável por fazer o merger com as demais partes, siga os comandos abaixo:
 
 <ol>		
 <li>Crie um repositório local para ser seu diretório de trabalho;</li>
+
+<li>Por precaução adicione um origin;</li>
 
 <li>Clone o projeto;</li>		
 

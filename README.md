@@ -31,10 +31,7 @@
 de identifição</b></h6>		
 	
 > git commit -m  "mensagem"
-         	
-<h6><b>Mostrar a linha do tempo dos commits já feitos</b></h6>
-		
-> git log 
+         
 	
 <h6><b>Enviar os arquivos do git directory para o repositório remoto</b></h6>	
 	
@@ -43,11 +40,33 @@ de identifição</b></h6>
 	
 <h2>Commits</h2>
 
+<h6><b>Mostrar a linha do tempo dos commits já feitos</b></h6>
+		
+> git log 
+
 <h6><b>Alterar mensagem do ultimo commit realizado</b></h6>
 
-> git --amend -m "nova menagem"
+> git commit --amend -m "nova menagem"
 		
-		
+<h2>Clonig</h2>
+
+<h6><b>Alterar mensagem do ultimo commit realizado</b></h6>
+
+> git git clone url
+
+<h6>
+  <b>
+    Obs: Ao clonar um projeto que utiliza as bibliotecas do node execute na pasta referente ao mesmo:
+  </b>
+</h6>
+	
+> npm install 
+
+<h6>
+  <b>
+    Esse comando irá disponibilizar todos os módulos acessiveis no node_modules
+  </b>
+</h6>
 		
 <h2>Branches</h2>
 

@@ -47,6 +47,10 @@ de identifição</b></h6>
 <h6><b>Alterar mensagem do ultimo commit realizado</b></h6>
 
 > git commit --amend -m "nova menagem"
+
+<h6>Mostrar ordem cronológica dos commits + as alterações neles feitas.</h6>
+
+>git log -p 
 		
 <h2>Clonig</h2>
 
@@ -86,8 +90,12 @@ foram commitados a mesma</b></h6>
 <h6><b>Navegar entre uma branch e outra</b></h6>        	
 	
 > git checkout (nome da branch)
+
+<h6><b>Fazer uma busca por atualizações na branch</b></h6>
+
+>git fetch
 		
-<h6><b>Além de criar uma branch correspondente a atual no repositório remoto, envia os arquivos nela</b></h6>	
+<h6><b>Criar uma branch correspondente a atual no repositório remoto e enviar os arquivos nela presentes</b></h6>	
 
 > git push --set-upstream origin (nome)
 	
